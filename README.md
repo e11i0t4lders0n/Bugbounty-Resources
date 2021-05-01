@@ -2,8 +2,7 @@
 
 ## Contents 
 - [Insecure Direct Object Reference (IDOR)](https://github.com/e11i0t4lders0n/Bugbounty-Resources#insecure-direct-object-reference-idor)
-- [Cross Site Request Forgery (CSRF)](https://github.com/e11i0t4lders0n/Bugbounty-Resources#cross-site-request-forgery-csrf)
-- [2FA Bypass](https://github.com/e11i0t4lders0n/Bugbounty-Resources#2fa-bypass) 
+
 
 ## Insecure Direct Object Reference (IDOR)
 
