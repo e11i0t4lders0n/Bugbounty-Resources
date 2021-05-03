@@ -40,10 +40,15 @@
 #Two Factor Authenication Bypass
 
 [Bypassing the Protections — MFA Bypass Techniques for the Win](https://blog.cobalt.io/bypassing-the-protections-mfa-bypass-techniques-for-the-win-8ef6215de6ab)
+
 [2FA Bypass Techniques Mindmap](https://www.mindmeister.com/1736437018/2fa-bypass-techniques?fullscreen=1)
+
 [5 ways attackers can bypass two-factor authentication](https://www.hoxhunt.com/blog/5-ways-to-bypass-two-factor-authentication/)
+
 [4 Methods to Bypass two factor Authentication](https://shahmeeramir.com/4-methods-to-bypass-two-factor-authentication-2b0075d9eb5f)
+
 [2FA/OTP Bypass](https://book.hacktricks.xyz/pentesting-web/2fa-bypass)
+
 [Using Session Puzzling to Bypass Two-Factor Authentication](https://www.netsparker.com/blog/web-security/two-interesting-session-related-vulnerabilities/)
 
 
