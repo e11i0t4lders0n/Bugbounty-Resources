@@ -2,6 +2,7 @@
 
 ## Contents 
 - [Insecure Direct Object Reference (IDOR)](https://github.com/e11i0t4lders0n/Bugbounty-Resources#insecure-direct-object-reference-idor)
+- [Two Factor Authenication Bypass](https://github.com/e11i0t4lders0n/Bugbounty-Resources#two-factor-authenication-bypass)
 
 
 ## Insecure Direct Object Reference (IDOR)
@@ -35,5 +36,15 @@
 - [Insecure Direct Object Reference within Amadeus Check-in Application](https://www.7elements.co.uk/resources/technical-advisories/insecure-direct-object-reference-within-amadeus-check-in-application/)
 - [IDOR (at Private Bug Bounty Program) that could Leads to Personal Data Leaks](http://www.firstsight.me/2018/04/idor-at-private-bug-bounty-program-that-could-leads-to-personal-data-leaks/)
 - [Sessions-Based Insecure Direct Object Reference (IDOR) allowing unauthenticated user profile access](https://tracker.moodle.org/browse/MDL-69860?attachmentOrder=desc)
+
+#Two Factor Authenication Bypass
+
+[Bypassing the Protections — MFA Bypass Techniques for the Win](https://blog.cobalt.io/bypassing-the-protections-mfa-bypass-techniques-for-the-win-8ef6215de6ab)
+[2FA Bypass Techniques Mindmap](https://www.mindmeister.com/1736437018/2fa-bypass-techniques?fullscreen=1)
+[5 ways attackers can bypass two-factor authentication](https://www.hoxhunt.com/blog/5-ways-to-bypass-two-factor-authentication/)
+[4 Methods to Bypass two factor Authentication](https://shahmeeramir.com/4-methods-to-bypass-two-factor-authentication-2b0075d9eb5f)
+[2FA/OTP Bypass](https://book.hacktricks.xyz/pentesting-web/2fa-bypass)
+[Using Session Puzzling to Bypass Two-Factor Authentication](https://www.netsparker.com/blog/web-security/two-interesting-session-related-vulnerabilities/)
+
 
 
