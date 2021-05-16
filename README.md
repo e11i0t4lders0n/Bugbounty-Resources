@@ -3,6 +3,7 @@
 ## Contents 
 - [Insecure Direct Object Reference (IDOR)](https://github.com/e11i0t4lders0n/Bugbounty-Resources#insecure-direct-object-reference-idor)
 - [Two Factor Authenication Bypass](https://github.com/e11i0t4lders0n/Bugbounty-Resources#two-factor-authenication-bypass)
+- [Cross-site Scripting (XSS)](https://github.com/e11i0t4lders0n/Bugbounty-Resources#cross-site-scritpting)
 
 
 ## Insecure Direct Object Reference (IDOR)
@@ -45,6 +46,11 @@
 - [4 Methods to Bypass two factor Authentication](https://shahmeeramir.com/4-methods-to-bypass-two-factor-authentication-2b0075d9eb5f)
 - [2FA/OTP Bypass](https://book.hacktricks.xyz/pentesting-web/2fa-bypass)
 - [Using Session Puzzling to Bypass Two-Factor Authentication](https://www.netsparker.com/blog/web-security/two-interesting-session-related-vulnerabilities/)
+
+#Cross-site Scripting (XSS)
+
+-[Apple Bug bounty writeups XSS(2021)](https://takashi-suzuki.medium.com/apple-bug-bounty-xss-2021-78c2f4fc4106)
+
 
 
 
