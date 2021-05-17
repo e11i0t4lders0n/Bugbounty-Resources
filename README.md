@@ -49,17 +49,17 @@
 
 #Cross-site Scripting (XSS)
 
--[Apple Bug bounty writeups XSS(2021)](https://takashi-suzuki.medium.com/apple-bug-bounty-xss-2021-78c2f4fc4106)
--[XSS Through Parameter Pollution](https://infosecwriteups.com/xss-through-parameter-pollution-9a55da150ab2)
--[Exploiting XSS via Markdown on Xiaomi](https://n45ht.or.id/post/exploiting-xss-via-markdown-on-xiaomi/en)
--[Reflected DOM-based XSS on DomaiNesia](https://n45ht.or.id/post/reflected-dom-xss-on-domainesia/en)
--[How I found Cross-Site-Scripting (Reflected) on more than 300 systems!](https://mrsinister1501.medium.com/how-i-found-cross-site-scripting-reflected-on-more-than-300-systems-81d8118d9de5)
--[Telegram bug bounties: XSS, privacy issues, official bot exploitation and more…](https://davtur19.medium.com/telegram-bug-bounties-xss-privacy-issues-official-bot-exploitation-and-more-5277fa78435)
--[How I was able to inject XSS payload into any user's mailbox](https://noobx.in/blogs/how-i-was-able-to-inject-xss-payload-into-any-user-s-mailbox)
--[XSS via Exif Data - The P2 Elevator](https://shahjerry33.medium.com/xss-via-exif-data-the-p2-elevator-d09e7b7fe9b9)
--[How I earned $$$$ through Stored XSS](https://pharish4948.medium.com/how-i-earned-3200-in-4hours-through-stored-xss-38597877d3e1)
--[How I got 9000 USD by hacking into iCloud](https://fernale.blogspot.com/p/an-interesting-xss-exploit-that-i-found.html)
--[Stored XSS on the DuckDuckGo search results page](https://monke.ie/duckduckgoxss/)
+- [Apple Bug bounty writeups XSS(2021)](https://takashi-suzuki.medium.com/apple-bug-bounty-xss-2021-78c2f4fc4106)
+- [XSS Through Parameter Pollution](https://infosecwriteups.com/xss-through-parameter-pollution-9a55da150ab2)
+- [Exploiting XSS via Markdown on Xiaomi](https://n45ht.or.id/post/exploiting-xss-via-markdown-on-xiaomi/en)
+- [Reflected DOM-based XSS on DomaiNesia](https://n45ht.or.id/post/reflected-dom-xss-on-domainesia/en)
+- [How I found Cross-Site-Scripting (Reflected) on more than 300 systems!](https://mrsinister1501.medium.com/how-i-found-cross-site-scripting-reflected-on-more-than-300-systems-81d8118d9de5)
+- [Telegram bug bounties: XSS, privacy issues, official bot exploitation and more…](https://davtur19.medium.com/telegram-bug-bounties-xss-privacy-issues-official-bot-exploitation-and-more-5277fa78435)
+- [How I was able to inject XSS payload into any user's mailbox](https://noobx.in/blogs/how-i-was-able-to-inject-xss-payload-into-any-user-s-mailbox)
+- [XSS via Exif Data - The P2 Elevator](https://shahjerry33.medium.com/xss-via-exif-data-the-p2-elevator-d09e7b7fe9b9)
+- [How I earned $$$$ through Stored XSS](https://pharish4948.medium.com/how-i-earned-3200-in-4hours-through-stored-xss-38597877d3e1)
+- [How I got 9000 USD by hacking into iCloud](https://fernale.blogspot.com/p/an-interesting-xss-exploit-that-i-found.html)
+- [Stored XSS on the DuckDuckGo search results page](https://monke.ie/duckduckgoxss/)
 
 
 
