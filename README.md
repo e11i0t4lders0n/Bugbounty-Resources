@@ -37,6 +37,16 @@
 - [Insecure Direct Object Reference within Amadeus Check-in Application](https://www.7elements.co.uk/resources/technical-advisories/insecure-direct-object-reference-within-amadeus-check-in-application/)
 - [IDOR (at Private Bug Bounty Program) that could Leads to Personal Data Leaks](http://www.firstsight.me/2018/04/idor-at-private-bug-bounty-program-that-could-leads-to-personal-data-leaks/)
 - [Sessions-Based Insecure Direct Object Reference (IDOR) allowing unauthenticated user profile access](https://tracker.moodle.org/browse/MDL-69860?attachmentOrder=desc)
+- [IDOR to add secondary users in www.paypal.com/businessmanage/users/api/v1/users](https://hackerone.com/reports/415081) 
+- [IDOR allow access to payments data of any user](https://hackerone.com/reports/751577) 
+- [idor allows you to delete photos and album from a gallery](https://hackerone.com/reports/380410)  
+- [IDOR allows any user to edit others videos](https://hackerone.com/reports/681473)
+- [Singapore - Account Takeover via IDOR](https://hackerone.com/reports/876300)
+- [IDOR when editing users leads to Account Takeover without User Interaction at CrowdSignal](https://hackerone.com/reports/915114)
+- [I.D.O.R To Order,Book,Buy,reserve On YELP FOR FREE (UNAUTHORIZED USE OF OTHER USER'S CREDIT CARD)](https://hackerone.com/reports/391092)
+- [IDOR in the https://market.semrush.com/](https://hackerone.com/reports/837400) 
+- [IDOR leads to Edit Anyone's Blogs / Websites](https://hackerone.com/reports/974222) 
+- [IDOR for order delivery address](https://hackerone.com/reports/723461)
 
 #Two Factor Authenication Bypass
 
